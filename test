@@ -1,1 +1,5 @@
 free -m
+hostname
+ifconfig
+dmidecode
+lshw
