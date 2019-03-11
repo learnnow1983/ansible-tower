@@ -1,3 +1,4 @@
 hostname
 ifconfig
 dmidecode
+lshw
