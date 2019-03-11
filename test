@@ -1,4 +1,3 @@
 free -m
 hostname
 ifconfig
-dmidecode
